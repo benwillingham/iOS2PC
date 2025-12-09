@@ -42,3 +42,6 @@ From the user’s point of view:
 
 - **Python 3** 
 - **VPN - I used Tailscale** installed and on same virtual network as phone.
+
+### On the iPhone
+- In addition to being on same VPN as PC, ensure the shortcut is set up to send the attachments to port 8000 of your PCs VPN ip. See attached shortcut template and images for more detail.
