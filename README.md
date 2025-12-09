@@ -42,7 +42,7 @@ From the user’s point of view:
 
 - **Python 3** 
 - **VPN - I used Tailscale** installed and on same virtual network as phone.
-- Optionally, at a batch file that runs the server and place in startup so the reciever is automatically on upon startup.
+- Optionally, make a batch file that runs the server and place in startup so the reciever is automatically on upon startup.
 
 ### On the iPhone
 - In addition to being on same VPN as PC, ensure the shortcut is set up to send the attachments to port 8000 of your PCs VPN ip. See attached shortcut template and images for more detail.
