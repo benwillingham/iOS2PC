@@ -38,7 +38,7 @@ From the user’s point of view:
 
 ## 2. Requirements
 
-### On the Windows PC
+### On the PC
 
 - **Python 3** 
 - **VPN - I used Tailscale** installed and on same virtual network as phone.
